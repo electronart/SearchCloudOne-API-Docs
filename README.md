@@ -1,2 +1,2 @@
-# SearchCloudOne-API-Docs
+# SearchCloudOne API Docs
 REST API Documentation for SearchCloudOne
