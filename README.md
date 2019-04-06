@@ -1,6 +1,6 @@
 # SearchCloudOne REST API
 
-SearchCloudOne provides a REST API that allows you to manage Indexes and Perform Search Requests using our servers.
+SearchCloudOne provides a REST API that allows you to manage Indexes and Perform Search Requests.
 
 SearchCloudOne's API Communicates in `JSON` with `POST` requests. 
 
